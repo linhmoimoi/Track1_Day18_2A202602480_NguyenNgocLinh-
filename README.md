@@ -5,7 +5,7 @@
 ## 1. Thông tin cá nhân và nhóm
 
 - **MHV:** 2A202602480
-- **Họ và tên:** Nguyễn Ngọc Linh
+- **giHọ và tên:** Nguyễn Ngọc Linh
 - **Tên nhóm:** October
 - **Thành viên:** Nguyễn Ngọc Linh - 2A202602480.  
 - **Case đã chọn:** **Case B — AI Notes: Personal Learning Notes**
