@@ -143,5 +143,6 @@ Không mặc định người tham gia có vấn đề. Nếu họ nói “khôn
 | Hỗ trợ chép lời cục bộ bản ghi, sắp xếp Interview Record và đề xuất reflection/revision dựa trên lượt luyện. | Chép lời tự động có thể nhận sai từ/công cụ; bản ghi cũng không xác nhận rõ consent, điều kiện sàng lọc hay quyết định chung của nhóm. | Tôi cần đối chiếu bản tóm tắt với audio, xác nhận consent/điều kiện sàng lọc và brief nhóm, giữ chỗ nghe không rõ là chưa xác minh; không suy rộng lượt này thành kết luận về người học. |
 
 **Nguyên tắc sử dụng AI:** AI hỗ trợ cấu trúc và rà soát câu hỏi; nhóm chịu trách nhiệm kiểm tra tính trung lập, đối chiếu với ghi chép thực tế và cập nhật hypothesis theo bằng chứng fieldwork.
-#   T r a c k 1 _ D a y 1 8 _ 2 A 2 0 2 6 0 2 4 8 0 _ N g u y e n N g o c L i n h -  
+#   T r a c k 1 _ D a y 1 8 _ 2 A 2 0 2 6 0 2 4 8 0 _ N g u y e n N g o c L i n h - 
+ 
  
